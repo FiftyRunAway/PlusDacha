@@ -85,7 +85,6 @@ public class Main {
     public static void main(String[] args) {
         startNewDriver();
         frame = new GUI();
-        frame.setIconImage(Objects.requireNonNull(createIcon("/bell-icon.png")).getImage());
         frame.getSiteButton().addActionListener(Main::actionPerformed);
         frame.getOnButton().addActionListener(e -> startAction());
         frame.getLoginButton().addActionListener(e -> BuyTicket.login(BuyTicket.selectedAccount));
@@ -395,16 +394,6 @@ public class Main {
         accounts.add(third);
 
         frame.setMenuBar(menuBar);
-    }
-
-    private static ImageIcon createIcon(String path) {
-        URL imgURL = Main.class.getResource(path);
-        if (imgURL != null) {
-            return new ImageIcon(imgURL);
-        } else {
-            System.err.println("File not found " + path);
-            return null;
-        }
     }
 
     public static void sendEmailNews(String news) throws MessagingException {
