@@ -1,0 +1,21 @@
+
+
+java:S1104"UMake rootPanel a static final constant or non-public and provide accessors if needed.(®“›”úÿÿÿÿ8•ã·äˆ2J$b8117e54-82a5-4250-8fa0-a1f7d8bb64bf
+—
+java:S1104"TMake onButton a static final constant or non-public and provide accessors if needed.(øÍ÷˜8æÑÀ”ˆ2J$dce0bc01-36f9-46c3-889b-0fd9a16e75d4
+
+java:S1104"VMake eventsArea a static final constant or non-public and provide accessors if needed.(ñ††¢şÿÿÿÿ8æÑÀ”ˆ2J$2fd8ad6b-10bc-4c1b-8e46-dc62ef4502b0
+™
+java:S1104"VMake siteButton a static final constant or non-public and provide accessors if needed.(úŸˆò8æÑÀ”ˆ2J$5b24b8d3-de5c-45fc-a036-c5d6ff08213b
+
+java:S1104"VMake updateArea a static final constant or non-public and provide accessors if needed.(”Œèïùÿÿÿÿ8æÑÀ”ˆ2J$78fe675e-4ab1-401c-beaf-9dc99d9916fb
+›
+java:S1104"XMake progressBar1 a static final constant or non-public and provide accessors if needed.(åÛ§ê8æÑÀ”ˆ2J$fc833f4a-8cea-4ffc-bd1f-949a98df172e
+
+java:S1104"UMake checkBox1 a static final constant or non-public and provide accessors if needed.(¥óìüÿÿÿÿ8æÑÀ”ˆ2J$44b7e216-d14b-4a5c-9557-5c5a9acb3652
+Ÿ
+java:S1104"WMake loginButton a static final constant or non-public and provide accessors if needed.(™“Üúÿÿÿÿ8æÑÀ”ˆ2J$ea0b6adc-b2dd-4c22-989a-754a8834d16b
+
+java:S1104"UMake checkBox2 a static final constant or non-public and provide accessors if needed.(¸»û”ùÿÿÿÿ8åÛ¸¿‰2J$0e356971-6001-4c95-8535-486adc670bf9
+h
+java:S1128"%Remove this unused import 'java.awt'.(ï´µ©8ÆËóµ‰2J$55a375c5-0188-4600-8e09-5a62b2965ca4
